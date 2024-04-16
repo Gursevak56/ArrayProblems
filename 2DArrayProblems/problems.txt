@@ -1,0 +1,30 @@
+Matrix Addition: Given two matrices, add them.
+Matrix Multiplication: Multiply two matrices.
+Matrix Transpose: Transpose a matrix.
+Matrix Determinant: Find the determinant of a matrix.
+Matrix Inversion: Find the inverse of a matrix.
+Matrix Diagonal Sum: Sum of diagonal elements of a matrix.
+Find the maximum element in a matrix.
+Find the minimum element in a matrix.
+Check if a matrix is symmetric.
+Check if a matrix is skew-symmetric.
+Check if a matrix is diagonal.
+Check if a matrix is identity.
+Check if a matrix is sparse (contains mostly zeros).
+Find the sum of each row in a matrix.
+Find the sum of each column in a matrix.
+Find the product of each row in a matrix.
+Find the product of each column in a matrix.
+Rotate a matrix by 90 degrees.
+Rotate a matrix by 180 degrees.
+Rotate a matrix by 270 degrees.
+Find the saddle point(s) in a matrix.
+Check if a given matrix is a magic square.
+Check if a matrix is Toeplitz (diagonal from top-left to bottom-right are equal).
+Check if a matrix is a Hankel matrix (constant skew-diagonals).
+Check if a matrix is a circulant matrix.
+Find the rank of a matrix.
+Check if a matrix is orthogonal.
+Check if a matrix is singular.
+Find the trace of a matrix (sum of diagonal elements).
+Find the cofactor matrix of a matrix.

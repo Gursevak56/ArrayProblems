@@ -1,0 +1,43 @@
+Find the Maximum Element in an Array
+Find the Minimum Element in an Array
+Compute the Sum of All Elements in an Array
+Calculate the Average of All Elements in an Array
+Reverse an Array
+Check if an Array is Sorted in Ascending Order
+Check if an Array is Sorted in Descending Order
+Search for an Element in an Array and Return its Index
+Remove Duplicates from an Array
+Find the Second Largest Element in an Array
+Find the Kth Smallest Element in an Unsorted Array
+Merge Two Sorted Arrays into One
+Rotate an Array to the Right by K Steps
+Find the Missing Number in an Array of 1 to N
+Determine if Two Arrays are Equal
+Find the Majority Element in an Array
+Find the Intersection of Two Arrays
+Find the Union of Two Arrays
+Sort an Array of 0s, 1s, and 2s (Dutch National Flag Problem)
+Rearrange Positive and Negative Numbers in an Array
+Find the Maximum Product of Two Integers in an Array
+Find the Maximum Sum Subarray (Kadane's Algorithm)
+Find the Leaders in an Array (Elements with no greater element on the right)
+Sort an Array of Strings based on Anagram
+Rearrange Array Alternately (Maximum, Minimum, Second Maximum, Second Minimum, and so on)
+Find the Peak Element in an Array (An element greater than its neighbors)
+Implement Merge Sort
+Implement Quick Sort
+Implement Selection Sort
+Implement Insertion Sort
+Implement Bubble Sort
+Implement Counting Sort
+Implement Radix Sort
+Implement Bucket Sort
+Implement Heap Sort
+Implement Shell Sort
+Implement Cocktail Shaker Sort
+Implement Comb Sort
+Implement Gnome Sort
+Implement Pancake Sort
+Implement Cycle Sort
+Implement Stooge Sort
+Implement Bogosort 
